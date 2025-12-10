@@ -13,7 +13,7 @@
 </p>
 
 ---
-
+<img src="visuals/tcover.png" width="680"/>
 ## 📌 Project Description
 
 A real-world SQL case study analyzing Transport for London (TfL) journey data collected over **12+ years**.  
